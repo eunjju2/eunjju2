@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components">
+<img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white"alt="Tailwind"/>
 
 
 <br>
